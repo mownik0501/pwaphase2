@@ -1,0 +1,93 @@
+
+#main{
+	background: gray;
+	text-align: center;
+}
+header{
+	background: #48c980;
+	height: 5%;
+	padding: 1%;
+	margin-bottom: 1%;
+
+}
+#main a{
+	text-align: none;
+
+
+}
+#main button{
+	background: pink;
+
+}
+.profile{
+	color: red;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#form
+{
+	background: skyblue;
+	text-align: center;
+}
+.main{
+	background: pink;
+	margin: 2%;
+	border-radius: 4%;
+	padding: 2%;
+	display: flex;
+	flex-direction: row;
+	flex-wrap: wrap;
+	justify-content: space-around;
+
+
+}
+.sub{
+	width: 90%;
+	background: gray;
+	text-align: center;
+	border-radius: 6%;
+	padding: 1%;
+	box-shadow: 1px 1px 1px 1px;
+
+}
+.sub1{
+	background: gray;
+	width: 43%;
+	margin: 1%;
+	padding: 2%;
+	border-radius: 6%;
+	box-shadow: 1px 1px 1px 1px;
+
+}
+input,select{
+	width: 90%;
+	margin: 1%;
+}
+button{
+	height: 20%;
+	width: 15%;
+	border-radius: 50%;
+	background: brown;
+}
